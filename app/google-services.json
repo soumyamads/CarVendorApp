@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "api-project-648590651948",
+    "project_number": "648590651948",
+    "name": "API Project"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648590651948:android:e558f6403d82d0c0",
+        "client_id": "android:com.car.vendor",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.car.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648590651948-ae3e7tf1n7bhspier5qssa9ap4ihjorl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.car.vendor",
+            "certificate_hash": "CFDE034316EA468ADE7BE1863FBAD9230E1266A8"
+          }
+        },
+        {
+          "client_id": "648590651948-njtg8kh9o0stobciaf7cvs8bgvf85brv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
