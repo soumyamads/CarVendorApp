@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">CarVendorApp</string>
     <string name="action_settings">Settings</string>
+    <string name="app_id">546422555507902</string>
+    <string name="google_api_key">    AIzaSyCW0WG8WMgLnr7y5vVKF7vQQy9O5qx-ZEo</string>
+    <string name="google_map_api_key">AIzaSyAfwDGl1Pf8LCX_Sb526kfWaFTYUXQEjpA</string>
+
+    <!--AIzaSyCW0WG8WMgLnr7y5vVKF7vQQy9O5qx-->
+
 </resources>
